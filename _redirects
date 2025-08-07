@@ -1,0 +1,13 @@
+# Redirect all requests to index.html for SPA behavior
+/*    /index.html   200
+
+# Optional: Redirect old URLs to new ones
+/search    /    301
+/home      /    301
+
+# API proxy (if you add backend APIs later)
+/api/*    https://your-backend-api.com/:splat    200
+
+# External redirects for quick access
+/github    https://github.com/Aviralhdfjh/google-search-clone    302
+/demo      /    302
