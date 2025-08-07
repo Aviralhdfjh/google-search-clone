@@ -163,6 +163,12 @@ body {
 .logo-o:nth-child(3) { color: var(--google-yellow); }
 .logo-l { color: var(--google-green); }
 .logo-e { color: var(--google-red); }
+.logo-evo { 
+    color: var(--google-blue); 
+    font-size: 0.8em;
+    margin-left: 8px;
+    font-weight: 500;
+}
 
 /* Search Container */
 .search-container {
