@@ -1,0 +1,36 @@
+{
+  "name": "google-search-clone",
+  "version": "1.0.0",
+  "description": "A modern Google search interface clone with enhanced UI/UX and API integration",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "dev": "live-server .",
+    "build": "echo 'No build step required for static site'",
+    "deploy": "netlify deploy --prod --dir ."
+  },
+  "keywords": [
+    "google",
+    "search",
+    "clone",
+    "javascript",
+    "html",
+    "css",
+    "api",
+    "responsive",
+    "ui",
+    "ux"
+  ],
+  "author": "Aviralhdfjh",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aviralhdfjh/google-search-clone.git"
+  },
+  "homepage": "https://googleevo-clone.netlify.app",
+  "devDependencies": {
+    "serve": "^14.2.0",
+    "live-server": "^1.2.2",
+    "netlify-cli": "^15.0.0"
+  }
+}

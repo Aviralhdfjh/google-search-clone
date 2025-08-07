@@ -1,4 +1,4 @@
-# Google Search Clone
+# Google Evo Search Clone
 
 A modern, feature-rich Google search interface clone built with HTML, CSS, and JavaScript.
 
@@ -16,7 +16,7 @@ A modern, feature-rich Google search interface clone built with HTML, CSS, and J
 
 ## 🎯 Live Demo
 
-[View Live Demo](https://aviralhdfjh-google-clone.netlify.app) *(Deploy to see it live)*
+[View Live Demo](https://googleevo-clone.netlify.app/) ✨ **LIVE NOW!**
 
 ## 🛠️ Technologies Used
 
